@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Syed (Zain)👋</h1>
 <h3 align="center">Interested in Embedded Systems and Full stack development.</h3>
+<h3 align="center">Trying to solve problems, sustainably.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zain1320&label=Eyewitnesses&color=f02d2d&style=flat" alt="zain1320" /> </p>
 
 - Reach out to me at: **zainul2002@gmail.com**
 
