@@ -1,5 +1,7 @@
 <h1 align="center">Hey, I'm Syed</h1>
 <h3 align="center">Super interested in Embedded and Full stack development!</h3>
+<h3 align="center">Reach out to me @zainul2002@gmail.com</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain1320&label=Eyewitnesses&color=f02d2d&style=flat" alt="zain1320" /> </p>
 
