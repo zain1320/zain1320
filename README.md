@@ -1,5 +1,5 @@
 <h2 align="center">Hey, I'm Syed (Zain)👋</h2>
-<h3 align="center">Interested in Embedded Systems and Full stack development.</h3>
+<h3 align="center">Interested in Embedded Systems and Full stack development</h3>
 <h4 align="center">Trying to solve problems, sustainably.</h4>
 
 
